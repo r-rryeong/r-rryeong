@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#9fb6ed&height=300&section=header&text=Seongryeong%20Kim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=88a2e3&height=280&section=header&text=Seongryeong%20Kim&fontSize=70)
 
 ### Hi there 👋
 
