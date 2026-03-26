@@ -1,6 +1,6 @@
 <div align=center>
 
- <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=SeongRyeong's%20GitHub&animation=fadeIn&fontColor=575960&fontSize=70" />
+ <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=SeongRyeong's%20GitHub&animation=fadeIn&fontColor=575960&fontSize=60" />
 
  ## 📧 Email 📧
  <span>hmr971127@naver.com</span>
