@@ -1,9 +1,11 @@
 <div align=center>
 
- # Hello, I'm Seongryeong👋
- 
- <br/>
+ <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=SeongRyeong's%20GitHub&animation=fadeIn&fontColor=575960&fontSize=70" />
 
+ ## 📧 Email 📧
+ <span>hmr971127@naver.com</span>
+ <br/>
+ <br/>
  ### 🛠️ Back-End Stacks 🛠️
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
