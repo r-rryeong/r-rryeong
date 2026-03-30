@@ -42,7 +42,7 @@
 <div align= "center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-rryeong)](https://github.com/anuraghazra/github-readme-stats)
+[![SeongRyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-rryeong)](https://github.com/r-rryeong/github-readme-stats)
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hmr2406)](https://solved.ac/백준아이디/)
 <br>
